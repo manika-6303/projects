@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\dell\desktop\codes2\tour and travel\main.cpp
+	<iostream>
+
+1584205420 source:c:\users\dell\onedrive\desktop\new folder (2)\tour and travel\main.cpp
+	<iostream>
+
+1618326934 source:c:\users\dell\onedrive\desktop\new folder (2)\tour and travel\untitled1.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<stdio.h>
+	<iomanip>
+	<iostream>
+	<dos.h>
+	<fstream>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
