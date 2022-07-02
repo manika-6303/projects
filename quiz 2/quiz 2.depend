@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1607775724 source:c:\users\dell\desktop\codes2\quiz 2\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
